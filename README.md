@@ -13,11 +13,11 @@
 
 ### - Work experience:
 
-- <a href="https://2.shkolkovo.online/"><img width="15" src="https://pic.onlinewebfonts.com/thumbnails/icons_263489.svg" alt = "Shkolkovo"></a> Shkolkovo (2021 - ****) Informatics curator
+- <a href="https://2.shkolkovo.online/"><img width="15" src="https://github.com/general9k/readme/blob/main/img/share_link.png?raw=true" alt = "Shkolkovo"></a> Shkolkovo (2021 - ****) Informatics curator
 
-- <a href="https://vk.com/proga_after_school_23"><img width="15" src="https://pic.onlinewebfonts.com/thumbnails/icons_263489.svg" alt = "ProgAfterSchool"></a> Programming after school (2023 - ****) Curator
+- <a href="https://vk.com/proga_after_school_23"><img width="15" src="https://github.com/general9k/readme/blob/main/img/share_link.png?raw=true" alt = "ProgAfterSchool"></a> Programming after school (2023 - ****) Curator
 
-- <a href="https://vk.com/inf_bu"><img width="15" src="https://pic.onlinewebfonts.com/thumbnails/icons_263489.svg" alt = "BU"></a> Informatics BU (2023 - ****) Curator
+- <a href="https://vk.com/inf_bu"><img width="15" src="https://github.com/general9k/readme/blob/main/img/share_link.png?raw=true" alt = "BU"></a> Informatics BU (2023 - ****) Curator
 
 
 ### - Hobbies : 
