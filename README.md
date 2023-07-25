@@ -1,7 +1,7 @@
 # Hello! :sparkles: 
 
 <div align="center">
-<img hight="300" width="300" alt="GIF" align="center" src="https://media.tenor.com/kaRCm9ELxKgAAAAC/menhera-chan-chibi.gif">
+<img hight="300" width="300" alt="GIF" align="center" src="https://github.com/general9k/general9k/blob/main/img/menhera-chan-chibi.gif?raw=true">
 </div>
 
 
@@ -9,7 +9,7 @@
 
 ### - My name is Maxim. I am 20 years old. I'm a beginner Backend-Developer.
 
-<img width="300" alt="GIF" align="right" src="https://media.tenor.com/mJUW-aPX3WgAAAAC/killua.gif">
+<img width="300" alt="GIF" align="right" src="https://github.com/general9k/general9k/blob/main/img/killua.gif?raw=true">
 
 ### - Work experience:
 
