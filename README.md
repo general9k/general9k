@@ -68,12 +68,4 @@
 <a href="https://github.com/general9k" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>  
-</div>  
-  
-## Github Stats
-
-<p align="center" >  
-  <a href="https://github.com/general9k"> 
-<img  src="https://github-readme-stats.vercel.app/api?username=general9k&&show_icons=true&theme=white"/>
-  </a>
-  </p>
+</div>
