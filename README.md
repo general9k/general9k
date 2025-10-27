@@ -7,7 +7,7 @@
 
 ## About ME :rose: :
 
-### - My name is Maxim. I am 20 years old. I'm a Middle Backend-Developer.
+### - My name is Maxim. I am 22 years old. I'm a Middle Backend-Developer.
 
 <img width="300" alt="GIF" align="right" src="https://github.com/general9k/general9k/blob/main/img/killua.gif?raw=true">
 
